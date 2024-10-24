@@ -1,3 +1,5 @@
+//Spectrum Colors Arranged by Chance - Ellsworth Kelly
+
 let columns = 40; // Aumenta il numero di colonne per rendere i quadrati più piccoli
 let rows;
 let squareSize;
